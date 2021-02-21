@@ -2,9 +2,9 @@
 <p align="center">
    <b>🎓 Student 🎓<br>🎓 SoftwareUniversity 🎓<br>🎓 MFG Financial GROUP Developer 🎓
    <br>
-   <img width="200" height="150" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
-   <img width="200" height="150" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
-   <img width="200" height="150" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
+   <img width="200" height="150" src="https://giphy.com/gifs/believe-iNvjeO4fnZPDq">
+   <img width="200" height="150" src="https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504">
+   <img width="200" height="150" src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">
 </p>
 
 <!-- Statistics -->
