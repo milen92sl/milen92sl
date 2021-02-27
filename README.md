@@ -6,7 +6,8 @@
    <img width="300" height="150" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif">
    <img width="200" height="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
    <img width="300" height="150" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif">
-   <img width="200" height="60" src="https://visitor-badge.glitch.me/badge?page_id=milen92sl">
+   <img width="200" height="60" src="https://visitor-badge.glitch.me/badge?page_id=milen92sl"> 
+
 </p>
 
 <!-- Statistics -->
