@@ -18,7 +18,7 @@
 
 <!-- Table of content -->
 
-| :1F4E1: Connect via: | :scroll: Certificates: | |
+| :<i class="em em-vibration_mode" aria-role="presentation" aria-label="VIBRATION MODE"></i>: Connect via: | :scroll: Certificates: | |
 | :-: | :-: | :-: |
 | :e-mail: **E-mail:**<br/>**milen92sl@gmail.com**| :heavy_check_mark: [**C# Basics 2019**](https://softuni.bg/certificates/details/74121/7b4ee2b9) |
 | 🥇| :heavy_check_mark: [**C# Fundamentals 2020**](https://softuni.bg/certificates/details/97193/cf8c04fd)|
