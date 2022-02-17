@@ -1,6 +1,6 @@
 <!-- Top text and gifs -->
 <p align="center">
-   <b>🎓 Student 🎓<br>🎓 SoftwareUniversity 🎓<br>🎓 MFG GROUP Development Manager🎓
+   <b>🎓 Full-Stack Developer 🎓<br>🎓 Software University 🎓<br>🎓 The sky is the limit🎓
    <br>
    
    <img width="300" height="150" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif">
