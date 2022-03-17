@@ -1,6 +1,6 @@
 <!-- Top text and gifs -->
 <p align="center">
-   <b>🎓 Full-Stack Developer 🎓<br>🎓 Software University 🎓<br>🎓 The sky is the limit🎓
+   <b>🎓 Main job: Full-Stack Developer 🎓<br>🎓 Student of Software University 🎓<br>🎓 The sky is the limit🎓
    <br>
    
    <img width="300" height="150" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif">
