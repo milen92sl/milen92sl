@@ -27,8 +27,8 @@
 - **Entity Framework Core 2021** - [View Certificate](https://softuni.bg/certificates/details/102571/dcabd6bf)
 - **C# Web Basics 2021** - [View Certificate](https://softuni.bg/certificates/details/109373/6ce1570d)
 - **ASP.Net Core 2021** - [View Certificate](https://softuni.bg/certificates/details/113358/6b490210)
-- **Algorithms Fundamentals with C#** - [View Certificate](https://softuni.bg/certificates/details/176637/eb611034)
-- **Containers and Cloud** - [View Certificate](https://softuni.bg/certificates/details/206995/121cf2c1)
+- **Algorithms Fundamentals with C# 2023** - [View Certificate](https://softuni.bg/certificates/details/176637/eb611034)
+- **Containers and Cloud 2024** - [View Certificate](https://softuni.bg/certificates/details/206995/121cf2c1)
 
 ## 🚀 Skills
 <p align="center">
