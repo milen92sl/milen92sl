@@ -27,8 +27,8 @@
 - **Entity Framework Core 2021** - [View Certificate](https://softuni.bg/certificates/details/102571/dcabd6bf)
 - **C# Web Basics 2021** - [View Certificate](https://softuni.bg/certificates/details/109373/6ce1570d)
 - **ASP.Net Core 2021** - [View Certificate](https://softuni.bg/certificates/details/113358/6b490210)
-- **Algorithms Fundamentals with C#** - [View Certificate]((https://softuni.bg/certificates/details/176637/eb611034))
-- **Containers and Cloud** - [View Certificate]((https://softuni.bg/certificates/details/206995/121cf2c1))
+- **Algorithms Fundamentals with C#** - [View Certificate](https://softuni.bg/certificates/details/176637/eb611034)
+- **Containers and Cloud** - [View Certificate](https://softuni.bg/certificates/details/206995/121cf2c1)
 
 ## 🚀 Skills
 <p align="center">
@@ -42,6 +42,7 @@
    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
    <img src="https://img.shields.io/badge/Cloud-FFCA28?style=for-the-badge&logo=googlecloud&logoColor=black">
    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
