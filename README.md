@@ -22,11 +22,11 @@
 - **C# Fundamentals 2020** - [View Certificate](https://softuni.bg/certificates/details/97193/cf8c04fd)
 - **C# Advanced 2020** - [View Certificate](https://softuni.bg/certificates/details/86634/f04ccd31)
 - **C# OOP 2020** - [View Certificate](https://softuni.bg/certificates/details/105518/c62bc584)
-- **JS Applications 2022** - [View Certificate](https://softuni.bg/certificates/details/130409/61925278)
 - **MS SQL Server 2021** - [View Certificate](https://softuni.bg/certificates/details/97896/3e2b77a7)
 - **Entity Framework Core 2021** - [View Certificate](https://softuni.bg/certificates/details/102571/dcabd6bf)
 - **C# Web Basics 2021** - [View Certificate](https://softuni.bg/certificates/details/109373/6ce1570d)
 - **ASP.Net Core 2021** - [View Certificate](https://softuni.bg/certificates/details/113358/6b490210)
+- **JS Applications 2022** - [View Certificate](https://softuni.bg/certificates/details/130409/61925278)
 - **Algorithms Fundamentals with C# 2023** - [View Certificate](https://softuni.bg/certificates/details/176637/eb611034)
 - **Containers and Cloud 2024** - [View Certificate](https://softuni.bg/certificates/details/206995/121cf2c1)
 
