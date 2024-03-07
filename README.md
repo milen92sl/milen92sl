@@ -2,7 +2,7 @@
    <img width="600" height="300" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif">
 </p>
 
-<h1 align="center">💻 Full-Stack .NET Developer | Software University Student 🎓</h1>
+<h1 align="center">💻 Full-Stack Developer | Software University Student 🎓</h1>
 
 <p align="center">Passionate about bridging the gap between technology and people. "The sky is the limit."</p>
 
